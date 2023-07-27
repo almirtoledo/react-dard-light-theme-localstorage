@@ -1,1 +1,1 @@
-# React Dark / White toggle theme
+# React Dark / Light toggle theme + Local Storage
